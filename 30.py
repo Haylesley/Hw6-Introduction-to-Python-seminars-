@@ -7,7 +7,7 @@ a = int(input("Введите первый элемент арифметичес
 b = int(input("Введите разность: "))
 c = int(input("Введите количество элементов: "))
 
-# def ArifmetProgr(a,b,c):
+# def ArithmeticProgression(a,b,c):
 #     array = [a]
 #     summ = a
 #     for i in range(c-1):
@@ -15,7 +15,7 @@ c = int(input("Введите количество элементов: "))
 #         array.append(summ)
 #     print(array)
 
-# ArifmetProgr(a,b,c)
+# ArithmeticProgression(a,b,c)
 
 summ = a
 
